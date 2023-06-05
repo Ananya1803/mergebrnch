@@ -1,0 +1,8 @@
+Wazuh
+user- admin
+pass- i-06a3468b74d7f291a
+
+
+WAZUH_MANAGER="54.193.9.202" apt-get install wazuh-agent
+
+systemctl status wazuh-agent
